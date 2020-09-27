@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e971707f.chunk.css",
+    "main.js": "/static/js/main.1ee19543.chunk.js",
+    "main.js.map": "/static/js/main.1ee19543.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.acb3caa8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.acb3caa8.js.map",
+    "static/js/2.47a3d6fe.chunk.js": "/static/js/2.47a3d6fe.chunk.js",
+    "static/js/2.47a3d6fe.chunk.js.map": "/static/js/2.47a3d6fe.chunk.js.map",
+    "static/css/3.c7b31c95.chunk.css": "/static/css/3.c7b31c95.chunk.css",
+    "static/js/3.234fb5b3.chunk.js": "/static/js/3.234fb5b3.chunk.js",
+    "static/js/3.234fb5b3.chunk.js.map": "/static/js/3.234fb5b3.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/static/css/4.54df59d4.chunk.css",
+    "static/js/4.1dac42ac.chunk.js": "/static/js/4.1dac42ac.chunk.js",
+    "static/js/4.1dac42ac.chunk.js.map": "/static/js/4.1dac42ac.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b2449a46b2fc0345971209949f6de408.js": "/precache-manifest.b2449a46b2fc0345971209949f6de408.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.c7b31c95.chunk.css.map": "/static/css/3.c7b31c95.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.e971707f.chunk.css.map": "/static/css/main.e971707f.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/bostonRent.jpeg": "/static/media/bostonRent.8128f588.jpeg",
+    "static/media/contactMail.webp": "/static/media/contactMail.68e84138.webp",
+    "static/media/dataEngineeringNanodegree.jpeg": "/static/media/dataEngineeringNanodegree.df0e40ec.jpeg",
+    "static/media/dataStreaming.jpg": "/static/media/dataStreaming.83963e37.jpg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/northeasternUniversity.png": "/static/media/northeasternUniversity.792538cf.png",
+    "static/media/sirMVIT.png": "/static/media/sirMVIT.d437af1b.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/teachingAssistantLogo.jpg": "/static/media/teachingAssistantLogo.6a396ac4.jpg",
+    "static/media/tripAdvisorLogo.jpg": "/static/media/tripAdvisorLogo.ed6ebb6f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acb3caa8.js",
+    "static/js/2.47a3d6fe.chunk.js",
+    "static/css/main.e971707f.chunk.css",
+    "static/js/main.1ee19543.chunk.js"
+  ]
+}
