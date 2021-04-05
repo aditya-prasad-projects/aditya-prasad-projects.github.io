@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.b0ddd6a2.chunk.css",
-    "main.js": "/static/js/main.638a00b3.chunk.js",
-    "main.js.map": "/static/js/main.638a00b3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c4cabb18.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c4cabb18.js.map",
-    "static/js/2.47a3d6fe.chunk.js": "/static/js/2.47a3d6fe.chunk.js",
-    "static/js/2.47a3d6fe.chunk.js.map": "/static/js/2.47a3d6fe.chunk.js.map",
+    "main.js": "/static/js/main.818d1e1c.chunk.js",
+    "main.js.map": "/static/js/main.818d1e1c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1bbf9265.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1bbf9265.js.map",
+    "static/js/2.96ff0874.chunk.js": "/static/js/2.96ff0874.chunk.js",
+    "static/js/2.96ff0874.chunk.js.map": "/static/js/2.96ff0874.chunk.js.map",
     "static/css/3.c7b31c95.chunk.css": "/static/css/3.c7b31c95.chunk.css",
-    "static/js/3.16170dbe.chunk.js": "/static/js/3.16170dbe.chunk.js",
-    "static/js/3.16170dbe.chunk.js.map": "/static/js/3.16170dbe.chunk.js.map",
+    "static/js/3.a0d77e25.chunk.js": "/static/js/3.a0d77e25.chunk.js",
+    "static/js/3.a0d77e25.chunk.js.map": "/static/js/3.a0d77e25.chunk.js.map",
     "static/css/4.54df59d4.chunk.css": "/static/css/4.54df59d4.chunk.css",
-    "static/js/4.2523a1cc.chunk.js": "/static/js/4.2523a1cc.chunk.js",
-    "static/js/4.2523a1cc.chunk.js.map": "/static/js/4.2523a1cc.chunk.js.map",
+    "static/js/4.73729b70.chunk.js": "/static/js/4.73729b70.chunk.js",
+    "static/js/4.73729b70.chunk.js.map": "/static/js/4.73729b70.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5e11723ebbd2d16bd0a53ec90cbaa6bf.js": "/precache-manifest.5e11723ebbd2d16bd0a53ec90cbaa6bf.js",
+    "precache-manifest.c5179a55fad78cd5ce7cf6e35cd4f958.js": "/precache-manifest.c5179a55fad78cd5ce7cf6e35cd4f958.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.c7b31c95.chunk.css.map": "/static/css/3.c7b31c95.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/static/css/4.54df59d4.chunk.css.map",
@@ -34,9 +34,9 @@
     "static/media/tripAdvisorLogo.jpg": "/static/media/tripAdvisorLogo.ed6ebb6f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4cabb18.js",
-    "static/js/2.47a3d6fe.chunk.js",
+    "static/js/runtime-main.1bbf9265.js",
+    "static/js/2.96ff0874.chunk.js",
     "static/css/main.b0ddd6a2.chunk.css",
-    "static/js/main.638a00b3.chunk.js"
+    "static/js/main.818d1e1c.chunk.js"
   ]
 }
